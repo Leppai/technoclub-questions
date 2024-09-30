@@ -15,3 +15,5 @@ Total buah yang dikumpulkan selama seminggu adalah 280
 buah = [10, 20, 30, 40, 50, 60, 70]
 
 # lanjutkan code dibawah ini
+jumlah = sum(buah)
+print("Total buah yang dikumpulkan selama seminggu adalah " + str(jumlah))

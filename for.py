@@ -8,7 +8,9 @@ bantu naila untuk menyelesaikan masalahnya.
 """
 i = 0
 while (True):
-    print(i)
+    print(i + 1)
     
     i += 1
     # lanjutkan code dibawah ini
+    if (i == 100):
+        break

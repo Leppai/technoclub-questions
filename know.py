@@ -14,5 +14,7 @@ Output:
 """
 arr = range(1, 100)
 # lanjutkan code dibawah ini
+ganjil = [x for x in arr if x % 2 != 0]
 
+print(ganjil)
 
